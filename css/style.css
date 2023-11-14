@@ -132,8 +132,6 @@ hr {
   background-image: url("../img/background-img.webp");
   background-repeat: no-repeat;
   background-size: cover;
-  filter: contrast(120%);
-  filter: brightness(80%);
 }
 
 /* HEADER */
