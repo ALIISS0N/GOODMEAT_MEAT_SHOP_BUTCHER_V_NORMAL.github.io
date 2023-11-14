@@ -123,6 +123,9 @@ hr {
 
 /* newsletter */
 .newsletter {
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
   height: 100%;
   width: 680px;
   background-image: url("../img/background-img.webp");
